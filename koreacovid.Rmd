@@ -64,8 +64,15 @@ The females alive is 56% and males alive is 44%. The females dead is 36% and mal
 
 
 ## Inferential results 
-
-
+```{r}
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
+```
+The odds of dying if you are a male is 44/1411.
+The odds of dying if you are a female is 25/1831.
+The odd ratio is (44/1411)/(25/1831).
+The odd of dying is 2.3 to 1  
 
 
 ## Conclusions
