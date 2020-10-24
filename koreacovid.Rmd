@@ -76,4 +76,4 @@ The odd of dying is 2.3 to 1
 
 
 ## Conclusions
-
+There is a difference between the amount of males dying verses the female. The p-value is .0009 which is less than 0.05. So we reject the null hypothesis. This means that the amount of males dying is greater than the amount of females dying. The odds of males dying is 2.3 times more likely than the females.
